@@ -13,9 +13,7 @@ body {
     height: 100vh;
 }
  
-#border {
-    border: solid 1px;
-}
+
 
 
 
@@ -63,6 +61,7 @@ footer {
     width: 100%;
     background-color: white;
     justify-content: space-around;
+
 }
 
 .main_logo {
